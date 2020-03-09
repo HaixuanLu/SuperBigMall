@@ -30,11 +30,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### express
-npm i -g express-generator
-express server
-cd server
-npm install
-npm start
+(1)npm i -g express-generator
+(2)express server
+(3)cd server
+(4)npm install
+(5)npm start
 
 ### mongodb
 (1)下载安装mongodb
